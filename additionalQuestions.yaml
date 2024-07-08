@@ -1,0 +1,47 @@
+#PRO FEATURE - Auto answer additional questions from the below values.
+inputField:
+  First Name: SHEEN 
+  Last Name: NAPOLEAN
+  Phone Country Code: Canada (+1) # See linkedin for your country code, must be exact
+  Phone Number: 9282256696
+  Street address: 123 Fake Street
+  City: Katowice, Śląskie, Poland
+  State: Poland
+  Zip: 41-214
+  # default to put for any skill that you did not list
+  Years of experience: 0
+  C++: 0
+  Python: 3
+  Javascript: 3
+  Node: 3
+  python: 3
+  Spring Boot: 0
+  Java: 3
+  PHP: 0
+  Laravel: 0
+  SASS: 3
+  React: 3
+  React Native: 2
+  Django: 0
+  SAP: 0
+  ipt: 0
+  MySQL: 0
+  Shopify: 0
+  Typescript: 3
+  JavaScript: 3
+  Angular: 0
+  Redux.js: 2
+  Angular Command Line Interface (CLI): 0
+  selenium: 3
+  C#: 0
+  C (Programming Language): 0
+  Software Development: 3
+  Linux: 2
+  Cross-functional team: 0
+  Social media platforms: 0
+  Microsoft Azure: 0
+  AWS: 0
+  .NET: 0
+  # add custom one here
+  universityGpa: 4.0
+  
